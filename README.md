@@ -4,6 +4,8 @@
 ### Description
 Meme Coin Candle Scraper is a Python script used to fetch candle data (OHLCV and trading statistics) from define.fi.
 
+
+![alt text](output_image.png)
 ## 📊 Data Explanation
 
 All price and volume-related data in this project are represented in **USD (United States Dollar)** unless stated otherwise.
